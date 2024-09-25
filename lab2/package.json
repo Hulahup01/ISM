@@ -1,0 +1,14 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "enc": "node index.js encrypt",
+    "dec": "node index.js decrypt"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
